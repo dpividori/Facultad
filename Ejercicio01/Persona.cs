@@ -11,6 +11,7 @@ namespace Ejercicio01
         String _nombre;
         String _apellido;
         DateTime _fechaNacimiento;
+        // Deby linda
 
         protected abstract void GetCredencial();
         protected virtual void GetNombreCompleto()
