@@ -6,29 +6,32 @@ using System.Threading.Tasks;
 
 namespace Ejercicio01
 {
-    internal class Empleado : Persona
+    abstract class Empleado : Persona
     {
 
         // ATRIBUTOS
-        private DateTime fechaIngreso;
-        private int legajo;
+        protected DateTime _fechaIngreso;
+        protected int _legajo;
 
 
         // PROPIEDADES
-        public DateTime FechaIngreso { get => fechaIngreso; set => fechaIngreso = value; }
-        public int Legajo { get => legajo; set => legajo = value; }
+        public DateTime FechaIngreso { get => _fechaIngreso; set => _fechaIngreso = value; }
+        public int Legajo { get => _legajo; set => _legajo = value; }
 
         // PROPIEDADES HEREDADAS
-        public DateTime FechaNacimiento { get => _fechaNacimiento; set => _fechaNacimiento = value; }
+        public DateTime FechaNacimiento { get => FechaNac; set => FechaNac = value; }
 
         // propiedades custom
         public int Antiguedad { get => _legajo; set => _legajo = value; }
 
         // Métodos: implemento porque debo hacerlo
-        public override void GetCredencial()
+        protected override void GetCredencial()
         {
-            Console.WriteLine("Credencial de empleado");
+
         }
+
+        protected abstract string ListarEmpleados(bool listarConId);
+
     }
-}  
-    
+}
+
