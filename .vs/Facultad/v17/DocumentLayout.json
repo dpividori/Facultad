@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DPividori\\Documents\\GitHub\\Facultad\\",
+  "WorkspaceRootPath": "C:\\Users\\cesar\\source\\repos\\Facultad\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{40111109-637B-4327-B6AA-21FFF8D21246}|Ejercicio01\\Ejercicio01.csproj|c:\\users\\dpividori\\documents\\github\\facultad\\ejercicio01\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{40111109-637B-4327-B6AA-21FFF8D21246}|Ejercicio01\\Ejercicio01.csproj|c:\\users\\cesar\\source\\repos\\facultad\\ejercicio01\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40111109-637B-4327-B6AA-21FFF8D21246}|Ejercicio01\\Ejercicio01.csproj|solutionrelative:ejercicio01\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40111109-637B-4327-B6AA-21FFF8D21246}|Ejercicio01\\Ejercicio01.csproj|C:\\Users\\DPividori\\Documents\\GitHub\\Facultad\\ejercicio01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{40111109-637B-4327-B6AA-21FFF8D21246}|Ejercicio01\\Ejercicio01.csproj|C:\\Users\\cesar\\source\\repos\\Facultad\\ejercicio01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{40111109-637B-4327-B6AA-21FFF8D21246}|Ejercicio01\\Ejercicio01.csproj|solutionrelative:ejercicio01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -53,14 +53,22 @@
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Persona.cs",
-              "DocumentMoniker": "C:\\Users\\DPividori\\Documents\\GitHub\\Facultad\\Ejercicio01\\Persona.cs",
+              "DocumentMoniker": "C:\\Users\\cesar\\source\\repos\\Facultad\\Ejercicio01\\Persona.cs",
               "RelativeDocumentMoniker": "Ejercicio01\\Persona.cs",
-              "ToolTip": "C:\\Users\\DPividori\\Documents\\GitHub\\Facultad\\Ejercicio01\\Persona.cs",
+              "ToolTip": "C:\\Users\\cesar\\source\\repos\\Facultad\\Ejercicio01\\Persona.cs",
               "RelativeToolTip": "Ejercicio01\\Persona.cs",
-              "ViewState": "AgIAAAYAAAAAZ2ZmZqYowA0AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAZ2ZmZqYowA4AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-30T16:46:01.533Z",
               "EditorCaption": ""
@@ -69,20 +77,12 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\DPividori\\Documents\\GitHub\\Facultad\\Ejercicio01\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\cesar\\source\\repos\\Facultad\\Ejercicio01\\Form1.cs",
               "RelativeDocumentMoniker": "Ejercicio01\\Form1.cs",
               "ToolTip": "C:\\Users\\DPividori\\Documents\\GitHub\\Facultad\\Ejercicio01\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Ejercicio01\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\DPividori\\Documents\\GitHub\\Facultad\\Ejercicio01\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-30T16:44:35.324Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
             }
           ]
         }

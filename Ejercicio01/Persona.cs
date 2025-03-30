@@ -12,6 +12,7 @@ namespace Ejercicio01
         String _apellido;
         DateTime _fechaNacimiento;
         // Deby linda
+        // cÉSAR GENIO
 
         protected abstract void GetCredencial();
         protected virtual void GetNombreCompleto()
